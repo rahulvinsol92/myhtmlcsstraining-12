@@ -12,13 +12,10 @@ body {
   background-color: #000 !important;
 }
 
-
 #main {
   position: relative;
   height: 700px;
 }
-
-
 
 input[type="radio"] {
   position: absolute;
@@ -49,9 +46,6 @@ label.second {
 label.third {
   left: 68%;
 }
-
-
-
 
 .section {
   margin: 0;
